@@ -1,8 +1,10 @@
+@import "bootstrap-compass";
+
 // Default variables.
 @import "default-variables";
 
 // Bootstrap Framework.
-@import '../bootstrap/assets/stylesheets/bootstrap';
+@import 'bootstrap';
 
 // Base-theme overrides.
 @import 'overrides';
