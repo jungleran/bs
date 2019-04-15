@@ -1,0 +1,3 @@
+bs.settings:
+  type: theme_settings
+  label: 'BS settings'
